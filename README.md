@@ -9,7 +9,6 @@ Currently interested in **System Design**, **Performance Optimization**, and **K
 
 Feel free to connect with my <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]() if you like my work.
 
 ### Github statistic
 
